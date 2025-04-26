@@ -61,9 +61,9 @@ springdoc:
 aliyun:
   oss:
     endpoint: oss-cn-beijing.aliyuncs.com
-    access-key-id: ${ALIYUN_ACCESS_KEY_ID}
-    access-key-secret: ${ALIYUN_ACCESS_KEY_SECRET}
-    bucket-name: exam-system
+    accessKeyId: ${ALIYUN_ACCESS_KEY_ID}
+    accessKeySecret: ${ALIYUN_ACCESS_KEY_SECRET}
+    bucketName: exam-system
     domain: https://${ALIYUN_ACCESS_KEY_ID}.${ALIYUN_OSS_ENDPOINT}/
 
 # 本地文件上传配置
