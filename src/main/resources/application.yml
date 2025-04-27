@@ -41,9 +41,6 @@ jwt:
   secret-key: examSystem
   ttl: 24h
   token-name: authentication
-  refresh-token:
-    ttl: 24h
-    token-name: refresh_token
 
 mybatis-plus:
   mapper-locations: classpath:mapper/*.xml
