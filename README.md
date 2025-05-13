@@ -47,28 +47,6 @@ plaintext
 
 Open Folder
 
-1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-7
-
-8
-
-9
-
-10
-
-11
-
 exam-system/
 
 ├── db/                  # 数据库脚本目录
@@ -115,10 +93,6 @@ exam-system/
    
    Open Folder
    
-   1
-   
-   2
-   
    mysql -u用户名 -p密码 exam_system <
    
    db/exam_system.sql
@@ -135,22 +109,6 @@ bash
 运行
 
 Open Folder
-
-1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-7
-
-8
 
 # 使用Maven编译
 
