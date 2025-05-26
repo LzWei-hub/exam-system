@@ -126,14 +126,9 @@ java -jar target/exam-system-0.0.
 
 ### 访问系统
 - API文档地址： http://localhost:8080/doc.html
-- 默认管理员账号：admin/123456
+- 默认管理员账号：admin/Admin123
 ## 开发指南
 ### 代码规范
 - 遵循阿里巴巴Java开发手册规范
 - 使用Lombok简化代码
 - 接口设计遵循RESTful风格
-### 分支管理
-- master：主分支，保持稳定可发布状态
-- develop：开发分支，日常开发工作
-- feature/*：功能分支，新功能开发
-- hotfix/*：热修复分支，生产环境紧急修复
